@@ -8,6 +8,4 @@ class Question
     @answer = args[:answer]
   end
 
-
-
 end
