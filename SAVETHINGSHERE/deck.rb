@@ -1,7 +1,7 @@
 require_relative 'question'
 
 class Deck
-  attr_reader :deck
+  attr_reader :deck, :list_of_questions
 
   def initialize
     @list_of_questions = []
