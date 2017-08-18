@@ -1,4 +1,5 @@
 require_relative 'deck'
+require_relative 'question'
 
 if ARGV.any?
   filename = ARGV.first

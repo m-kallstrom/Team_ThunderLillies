@@ -11,3 +11,4 @@ describe Question do
       expect(first_q.answer).to eq "Washington, DC"
     end
   end
+
